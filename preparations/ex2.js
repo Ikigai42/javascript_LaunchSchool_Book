@@ -5,7 +5,7 @@
 [my_folder]$ cd ../
 [preparations (master)]$
 
-//Delete all the content generated in exercise 1 with one command
+//Delete all the content generated in exercise 1 with one command **DANGEROUS**
 [preparations (master)]$ rm -R my_folder
 
 */
