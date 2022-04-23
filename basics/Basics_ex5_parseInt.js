@@ -5,4 +5,7 @@ console.log('5' + 10);
 
 */
 
+console.log(parseInt('5') + 10); //returns 15
+
+//previous solution
 console.log(Number('5') + 10);
