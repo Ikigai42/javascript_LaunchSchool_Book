@@ -1,6 +1,6 @@
 /*
 2. Write a program named age.js that includes someone's age and then calculates and reports the future age in 10, 20, 30 and 40 years.
-*/ 
+*/
 
 let age = 27;
 console.log(`You are ${age} years old.`);
