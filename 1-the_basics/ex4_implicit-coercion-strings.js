@@ -8,3 +8,7 @@ console.log('5' + 10); // '510' string value
 console.log('5' - 10); // -5 number value
 console.log('5' * 10); // 50 number value
 console.log('5' / 10); // 0.5 number value
+
+/*Launch School
+The code logs 510 since every + expression that has a string operand produces a string result no matter what the other operand is. In other words, the Number 10 gets coerced to a String and then gets concatenated to the String '5', which produces '510'.
+*/
