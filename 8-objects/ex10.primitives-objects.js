@@ -8,7 +8,7 @@ objects => 4 objects
 ["b", false] > nested array object 2 levels deep
 {} > nested object literal 1 level deep
 
-primitives => 6
+primitives => 6 values
 1 > number literal
 2 > number literal
 "a" > string literal 
